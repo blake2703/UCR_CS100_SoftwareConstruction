@@ -1,3 +1,24 @@
 [submodule "lab-08---visitor-pattern-cward005-bdick011-lab-8"]
 	path = lab-08---visitor-pattern-cward005-bdick011-lab-8
 	url = https://github.com/cs100/lab-08---visitor-pattern-cward005-bdick011-lab-8.git
+[submodule "lab-07---factory-pattern-bdick011-cward005"]
+	path = lab-07---factory-pattern-bdick011-cward005
+	url = https://github.com/cs100/lab-07---factory-pattern-bdick011-cward005.git
+[submodule "lab-06---strategy-pattern-cward005-bdick011-3"]
+	path = lab-06---strategy-pattern-cward005-bdick011-3
+	url = https://github.com/cs100/lab-06---strategy-pattern-cward005-bdick011-3.git
+[submodule "lab-05---composite-pattern-cward005_bdick011"]
+	path = lab-05---composite-pattern-cward005_bdick011
+	url = https://github.com/cs100/lab-05---composite-pattern-cward005_bdick011.git
+[submodule "lab-04---github-actions-cward005-bdick011-2"]
+	path = lab-04---github-actions-cward005-bdick011-2
+	url = https://github.com/cs100/lab-04---github-actions-cward005-bdick011-2.git
+[submodule "lab-03---valgrind-cward005-bdick011-1"]
+	path = lab-03---valgrind-cward005-bdick011-1
+	url = https://github.com/cs100/lab-03---valgrind-cward005-bdick011-1.git
+[submodule "lab-02---git-flow-cward005-bdick011"]
+	path = lab-02---git-flow-cward005-bdick011
+	url = https://github.com/cs100/lab-02---git-flow-cward005-bdick011.git
+[submodule "lab-01---introduction-to-software-construction-tooling-blake2703"]
+	path = lab-01---introduction-to-software-construction-tooling-blake2703
+	url = https://github.com/cs100/lab-01---introduction-to-software-construction-tooling-blake2703.git

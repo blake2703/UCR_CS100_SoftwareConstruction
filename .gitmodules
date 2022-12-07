@@ -22,3 +22,6 @@
 [submodule "lab-01---introduction-to-software-construction-tooling-blake2703"]
 	path = lab-01---introduction-to-software-construction-tooling-blake2703
 	url = https://github.com/cs100/lab-01---introduction-to-software-construction-tooling-blake2703.git
+[submodule "final-project-bdick011-cward005-jchav198-mibra032"]
+	path = final-project-bdick011-cward005-jchav198-mibra032
+	url = https://github.com/cs100/final-project-bdick011-cward005-jchav198-mibra032.git
